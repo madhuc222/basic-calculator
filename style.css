@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(220, 245, 223);
+}
+.main_div{
+    margin-left: 250px;
+    margin-top: 100px;
+    background:linear-gradient(linear-gradient)
+}
+.container {
+    text-align: center;
+    margin: 70px;
+    background-color: black;
+}
+button{
+    border-radius:20px;
+    background:pink (300, 0, 0) ;
+    width : 120px;
+    height: 60px;
+    font-size: xx-large;
+}
+.tableindex{
+    margin-top: 10px;
+    background-color: rgb(129, 100, 62);
+    padding: 5px;
+    border-radius: 20px;
+    display: inline-block;
+    background:linear-gradient();
+    margin: top 50px;
+    border: black;
+    border-radius: 20px;
+    font-size: xx-large;
+}
+.input_div input{
+    border-radius: 15px;
+    background-color:white (255, 189, 127);
+    font-size: 41px;
+    height: 100px;
+    font-weight: 50px;
+}
